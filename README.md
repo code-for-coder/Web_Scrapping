@@ -13,3 +13,6 @@ selenium webdrivers are used to extract the data from dynamic website .Here we d
 Here we extract the information like image link,image tag , number of likes on image,and number of comments on the image then convert it into pandas
 dataframe and then store it in csv file for further analysis
 
+##3 .Google_link_generating_for_wikipedia :
+In this project, you will enter the name of any famous person, and the program will generate a link to their Wikipedia page. You can then click on this link to open their Wikipedia page directly within the application frame.
+
