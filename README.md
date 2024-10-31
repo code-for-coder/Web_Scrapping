@@ -8,5 +8,8 @@ Similarly there is another file final.csv which stores the information of indivi
 this both files can be further used for analysis <br>
 
 
-## Image_scraper1_using_drive : 
+## 2 .Image_scraper1_using_drive : 
+selenium webdrivers are used to extract the data from dynamic website .Here we data from 'https://stock-pictures.netlify.app' website
+Here we extract the information like image link,image tag , number of likes on image,and number of comments on the image then convert it into pandas
+dataframe and then store it in csv file for further analysis
 
